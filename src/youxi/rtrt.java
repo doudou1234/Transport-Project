@@ -29,6 +29,11 @@ public class rtrt
 		rtrt demo=new rtrt();
 		demo.print();
 	}
+	 public static print()
+	 {
+		 
+		 
+	 }
   
   
 }
